@@ -1,0 +1,8 @@
+*.DS_Store
+.vscode
+/bytear
+.idea
+/dist
+*.gob
+*.swp
+*.bak
